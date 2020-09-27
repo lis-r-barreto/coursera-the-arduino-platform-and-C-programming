@@ -1,4 +1,11 @@
-# The Arduino Platform and C Programming
+<p align="center">
+  <img width="1000" height="243" src="https://github.com/lis-r-barreto/coursera-the-arduino-platform-and-C-programming/blob/master/cover.png">
+</p>
+
+Hi, my name is <b>Lis Barreto</b> and this is my repository. You will find the content of the 2nd course of the "An Introduction to Programming the Internet of Things (IOT) Specialization" offered by University of California Irvine (UCI) in collaboration with Coursera.
+
+
+<b>About this course</b>
 
 The Arduino is an open-source computer hardware/software platform for building digital devices and interactive objects that can sense and control the physical world around them. In this class we learned how the Arduino platform works in terms of the physical board and libraries and the IDE (integrated development environment). We also learned about shields, which are smaller boards that plug into the main Arduino board to perform other functions such as sensing light, heat, GPS tracking, or providing a user interface display. The course also covered programming the Arduino using C code and accessing the pins on the board via the software to control external devices.
 
@@ -17,3 +24,10 @@ This module describes the composition of an Arduino program, or sketch, and the 
 ## Week 4
 
 This module is an introduction on debugging embedded software on an Arduino. We discuss the basic debugging requirements: controllability and observability. The debugging environment available for an Arduino UNO is limited, so we describe how to use the UART communication protocol to gain controllability and observability. We present the use of the Serial library to communicate with the Arduino through the serial monitor.
+
+
+This course is elaborated by Ian G. Harris. He is currently Vice Chair of Undergraduate Education in the Computer Science Department at the University of California, Irvine.
+
+<p align="center">
+  <img width="1000" height="618.18" src="https://github.com/lis-r-barreto/coursera-the-arduino-platform-and-C-programming/blob/master/certificate.png">
+</p>
